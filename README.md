@@ -1,7 +1,7 @@
 # movieTrailers
 
 
-This was a project to demonstrate basic programming concepts in Python 2.7 such as classes.
+This was a single-page project to demonstrate basic programming concepts in Python 2.7 such as classes.
 
 To install Python:  **Please make sure Python is installed on your machine.  To install Python, please go to: https://www.python.org/ and follow the instructions carefully.  
 
