@@ -1,4 +1,4 @@
-# movieTrailers
+# Movie Trailers
 
 
 This was a single-page project to demonstrate basic programming concepts in Python 2.7 such as classes.
